@@ -1,0 +1,154 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.9">
+  <diagram name="Страница — 1" id="bEhQXpiaIW7kzdeWFJIl">
+    <mxGraphModel dx="1507" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nirMB6_IRXD1rs_-c09g-1" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="237.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-2" value="Администратор" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-7" value="Услуга" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-8" value="Мастер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="337.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nirMB6_IRXD1rs_-c09g-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-13" value="Оказывает" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="437.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-15" value="Профиль" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="442.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="nirMB6_IRXD1rs_-c09g-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="317.5" as="sourcePoint" />
+            <mxPoint x="200" y="337.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-18" value="Соответствует" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="337.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-14" target="nirMB6_IRXD1rs_-c09g-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="630" as="sourcePoint" />
+            <mxPoint x="280" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-21" value="Соотноситься" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="477.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-23" target="nirMB6_IRXD1rs_-c09g-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="330" as="sourcePoint" />
+            <mxPoint x="310" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="394" y="375" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-24" value="Прайс-лист" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-25" value="Содержит" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="235" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-27" value="Запись" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-1" target="nirMB6_IRXD1rs_-c09g-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="370" as="sourcePoint" />
+            <mxPoint x="270" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-29" value="Делает" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-2" target="nirMB6_IRXD1rs_-c09g-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="360" as="sourcePoint" />
+            <mxPoint x="490" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-31" value="Оформляет" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="430" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-33" value="Чек" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="544" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-26" target="nirMB6_IRXD1rs_-c09g-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="450" as="sourcePoint" />
+            <mxPoint x="360" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-37" value="Способствует" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="297.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.462;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="nirMB6_IRXD1rs_-c09g-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="571.565" y="290" as="sourcePoint" />
+            <mxPoint x="572" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-26" target="nirMB6_IRXD1rs_-c09g-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="390" as="sourcePoint" />
+            <mxPoint x="520" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-40" value="Подтверждает" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-41" value="Формирует" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="545" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-45" value="Скидка (если есть)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="550" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-14" target="nirMB6_IRXD1rs_-c09g-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="480" as="sourcePoint" />
+            <mxPoint x="320" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-49" value="Даёт право" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nirMB6_IRXD1rs_-c09g-32" target="nirMB6_IRXD1rs_-c09g-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="565" as="sourcePoint" />
+            <mxPoint x="700" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nirMB6_IRXD1rs_-c09g-51" value="Учитывает" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="515" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
